@@ -1,0 +1,11 @@
+2025-06-19 15:17:19,618 - INFO - sports_ecommerce - GET / -> Status: 200 | Time: 4.72 ms
+2025-06-19 15:17:24,689 - INFO - sports_ecommerce - GET /docs -> Status: 200 | Time: 1.01 ms
+2025-06-19 15:17:24,959 - INFO - sports_ecommerce - GET /openapi.json -> Status: 200 | Time: 110.83 ms
+2025-06-19 15:17:29,083 - INFO - sports_ecommerce - GET / -> Status: 200 | Time: 1.01 ms
+2025-06-19 15:18:08,899 - INFO - sports_ecommerce - POST /login -> Status: 200 | Time: 985.98 ms
+2025-06-25 15:52:24,982 - INFO - sports_ecommerce - GET / -> Status: 200 | Time: 3.42 ms
+2025-06-25 15:52:25,203 - INFO - sports_ecommerce - GET /favicon.ico -> Status: 404 | Time: 0.00 ms
+2025-06-25 15:52:28,109 - INFO - sports_ecommerce - GET /docs -> Status: 200 | Time: 6.10 ms
+2025-06-25 15:52:28,330 - INFO - sports_ecommerce - GET /openapi.json -> Status: 200 | Time: 73.43 ms
+2025-06-25 15:52:32,006 - INFO - sports_ecommerce - GET / -> Status: 200 | Time: 0.00 ms
+2025-06-25 15:52:53,983 - INFO - sports_ecommerce - POST /login -> Status: 200 | Time: 676.91 ms

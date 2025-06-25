@@ -1,0 +1,5 @@
+2025-03-10 19:33:09,659 - INFO - Logging initialized ✅
+2025-03-10 19:33:17,213 - INFO - Logging initialized ✅
+2025-03-10 19:51:24,638 - INFO - package: mysql.connector.plugins
+2025-03-10 19:51:24,648 - INFO - plugin_name: caching_sha2_password
+2025-03-10 19:51:24,649 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
